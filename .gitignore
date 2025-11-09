@@ -1,0 +1,15 @@
+# Environment files with secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Coverage
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
