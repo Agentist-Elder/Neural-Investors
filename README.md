@@ -1,6 +1,7 @@
 # Neural Trading System
 
 > AI-powered trading system with GOAP planning, SAFLA learning, and AgentDB integration
+> Testing Claude Code integration
 
 [![Tests](https://img.shields.io/badge/tests-367%20passing-brightgreen)]()
 [![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)]()
