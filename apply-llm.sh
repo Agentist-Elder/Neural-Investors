@@ -26,6 +26,9 @@ echo ""
 
 # Apply the patch
 if patch -p1 < "$TEMP_DIFF"; then
+    # Clean up .orig backup files created by patch
+    find . -name "*.orig" -type f -delete
+
     echo ""
     echo "✅ Patch applied successfully!"
     echo ""
