@@ -1,0 +1,19 @@
+Test File - Repository Access Verification
+==========================================
+
+This is a test file created by Claude Code to verify read/write permissions.
+
+Repository: Neural-Investors
+Branch: claude/setup-repo-access-011CV2BF1KqS5DWUYKu53CNu
+Timestamp: 2025-11-11
+
+Status: ✓ Write access confirmed
+Purpose: Verifying that Claude Code can successfully create, commit, and push files to the repository.
+
+If you can see this file, it means:
+1. Claude Code has read access to the repository
+2. Claude Code has write access to create files locally
+3. Claude Code can commit changes to the branch
+4. Claude Code can push changes to the remote repository
+
+This test file can be safely deleted once verification is complete.
